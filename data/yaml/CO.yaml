@@ -4639,7 +4639,7 @@ items:
 - Level 3: QPA
   term:
     en: Lock gate
-    sk: Stavidlo
+    sk: Vráta plavebnej komory
   definition:
     en: open fluid controlling object for varying or switching on/off
     sk: riadiaci objekt otvoreného toku na zmenu alebo zapínanie a vypínanie
@@ -5154,7 +5154,7 @@ items:
 - Level 3: RQE
   term:
     en: Curtain
-    sk: Záves
+    sk: Záclona
   definition:
     en: local climate stabilising object by restricting transmission of light using
       textiles
